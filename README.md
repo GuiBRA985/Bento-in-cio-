@@ -1,19 +1,25 @@
-# Bento.host — Nova Página Inicial
+# Bento.host — Index final
 
-Arquivos principais:
+## Arquivos
 - index.html
 - styles.css
 - app.js
-
-Adicione também o logo na raiz do repositório com o nome:
 - logo.png
 
-O link principal da Carteira Bento já aponta para:
-https://carteira.bento.host
+## Publicação no GitHub Pages
+1. Envie todos os arquivos para a raiz do repositório do bento.host.
+2. Mantenha o arquivo CNAME atual do domínio.
+3. Faça commit na branch principal.
+4. Aguarde a atualização do GitHub Pages.
 
-Para publicar:
-1. Envie os arquivos para a raiz do repositório do bento.host.
-2. Mantenha o CNAME atual do domínio.
-3. Adicione o logo como logo.png.
-4. Faça o commit.
-5. Aguarde o GitHub Pages atualizar.
+## Ajustes incluídos
+- Carteira Bento em destaque principal.
+- Meta anual chamada apenas de META.
+- Gestão financeira pessoal e empresarial.
+- OCR de documentos, holerites, notas fiscais, extratos e boletos.
+- Documentos recebidos por foto, PDF ou e-mail.
+- Gestão tributária e empresarial.
+- Casa Bento como gestão de anúncios de locação por temporada.
+- Forex Bento e Chef Bento marcados como em desenvolvimento.
+- E-mail removido do destaque; apenas ícones de contato.
+- Slogan geral: soluções para CPF e CNPJ.
