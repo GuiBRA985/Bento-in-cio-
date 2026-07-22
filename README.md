@@ -1,22 +1,19 @@
-# Bento Host — Index
+# Bento.host — Nova Página Inicial
 
-Arquivos prontos para publicação no GitHub Pages.
+Arquivos principais:
+- index.html
+- styles.css
+- app.js
 
-## Arquivos
+Adicione também o logo na raiz do repositório com o nome:
+- logo.png
 
-- `index.html` — página principal completa.
-- `logo-ia-hahaha.png` — logotipo usado no topo, favicon e compartilhamento.
+O link principal da Carteira Bento já aponta para:
+https://carteira.bento.host
 
-## Como publicar
-
-1. Envie os dois arquivos para a raiz do repositório do `bento.host`.
-2. Mantenha o arquivo `CNAME` existente, caso o domínio já esteja configurado.
-3. Aguarde o GitHub Pages concluir a publicação.
-
-## Formulário de contato
-
-O formulário usa o serviço FormSubmit e envia para:
-
-`gui@bento.host`
-
-Na primeira mensagem, o FormSubmit pode enviar um e-mail de confirmação para ativar o formulário.
+Para publicar:
+1. Envie os arquivos para a raiz do repositório do bento.host.
+2. Mantenha o CNAME atual do domínio.
+3. Adicione o logo como logo.png.
+4. Faça o commit.
+5. Aguarde o GitHub Pages atualizar.
